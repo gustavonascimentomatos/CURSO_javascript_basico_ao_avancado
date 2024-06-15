@@ -1,4 +1,4 @@
-var aula = "Aula 03: Tipo de dado: number";
+var aula = "Aula 03: Tipo de dado 'number'";
 console.log(aula);
 
 // Imprime o valor
