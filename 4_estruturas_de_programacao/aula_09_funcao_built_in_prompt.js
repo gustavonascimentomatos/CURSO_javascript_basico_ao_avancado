@@ -1,4 +1,3 @@
-
 console.log("##########################################");
 var aula = "Aula 09: Função built in - prompt";
 console.log(aula);
@@ -9,7 +8,7 @@ console.log(aula);
  * Esta função é pouco utilizada
  */
 
-let newName = prompt("Informe seu nome:");
-let idade = prompt(`Informe sua idade ${newName}`);
+// let newName = prompt("Informe seu nome:");
+// let idade = prompt(`Informe sua idade ${newName}`);
 
-console.log(` -> Nome: ${newName}, Idade: ${idade}`);
+// console.log(` -> Nome: ${newName}, Idade: ${idade}`);
