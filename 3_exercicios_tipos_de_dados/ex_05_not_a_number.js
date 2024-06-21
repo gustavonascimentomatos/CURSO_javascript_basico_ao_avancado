@@ -1,5 +1,5 @@
 let exercicio5 = "Exercício 05: NaN";
-let descricao5 = "Faça ma operação que emita Na/n no console do navegador";
+let descricao5 = "Faça ma operação que emita NaN no console do navegador";
 
 console.log("###############################################");
 console.log(`${exercicio5}\n ${descricao5}`);

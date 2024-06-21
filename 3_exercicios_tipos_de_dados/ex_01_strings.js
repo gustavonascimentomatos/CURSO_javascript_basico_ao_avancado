@@ -1,5 +1,5 @@
 let exercicio1 = "Exercício 01: Strings";
-let descricao1 = "Escreva três valores em string sem um arquivo e exiba no navegador com o console.log()";
+let descricao1 = "Escreva três valores em string em um arquivo e exiba no navegador com o console.log()";
 let complemento1 = "Uma string com aspas duplas, aspas simples e template  literals";
 
 console.log("###############################################");
