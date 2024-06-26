@@ -2,5 +2,11 @@ var aula = "Aula 16: Métodos de arrays - forEach";
 console.log(aula);
 
 /**
- * Um objeto pode herdar todas as caracteísticas do outro, virando uma referência ao mesmo;
+ * Itera cada elemento do array;
  */
+
+let nomes16 = ["Goku", "Bulma", "Kuririn", "Piccolo", "Vegeta", "Babidi"];
+
+nomes16.forEach(nome => {
+    console.log(" -> O nome é: " + nome);
+});
