@@ -8,15 +8,19 @@ console.log(`${exercicio35}\n ${descricao35}\n ${complemento35}`);
 let calculadoraEx35 = {
     somar: function(n1, n2) {
         console.log(` -> A soma entre ${n1} e ${n2} é: ${n1 + n2}`);
+        return n1 + n2;
     },
     subtrair: function(n1, n2) {
         console.log(` -> A subtração entre ${n1} e ${n2} é: ${n1 - n2}`);
+        return n1 - n2;
     },
     multiplicar: function(n1, n2) {
         console.log(` -> A multiplicação entre ${n1} e ${n2} é: ${n1 * n2}`);
+        return n1 * n2;
     },
     divisao: function(n1, n2) {
         console.log(` -> A divisão entre ${n1} e ${n2} é: ${n1 / n2}`);
+        return n1 / n2;
     }
 }
 
