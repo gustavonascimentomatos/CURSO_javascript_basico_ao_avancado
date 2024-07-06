@@ -47,7 +47,6 @@ CarrinhoEx37.prototype.removeItem = function(item) {
     }
 }
 
-
 let carrinhoEx37 = new CarrinhoEx37([
     {
         id: 1,
