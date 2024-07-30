@@ -10,5 +10,5 @@ let linkAula07 = document.querySelector("a");
 
 linkAula07.addEventListener("click", function(event) {
     event.preventDefault();
-    console.log(" -> Função de link removida!")
+    console.log(" -> Função de link removida!");
 });  
